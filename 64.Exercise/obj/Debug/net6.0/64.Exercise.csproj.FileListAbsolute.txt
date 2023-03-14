@@ -1,0 +1,15 @@
+C:\Users\Артур\Desktop\Обучение\HOMETASK 9\64.Exercise\bin\Debug\net6.0\64.Exercise.exe
+C:\Users\Артур\Desktop\Обучение\HOMETASK 9\64.Exercise\bin\Debug\net6.0\64.Exercise.deps.json
+C:\Users\Артур\Desktop\Обучение\HOMETASK 9\64.Exercise\bin\Debug\net6.0\64.Exercise.runtimeconfig.json
+C:\Users\Артур\Desktop\Обучение\HOMETASK 9\64.Exercise\bin\Debug\net6.0\64.Exercise.dll
+C:\Users\Артур\Desktop\Обучение\HOMETASK 9\64.Exercise\bin\Debug\net6.0\64.Exercise.pdb
+C:\Users\Артур\Desktop\Обучение\HOMETASK 9\64.Exercise\obj\Debug\net6.0\64.Exercise.csproj.AssemblyReference.cache
+C:\Users\Артур\Desktop\Обучение\HOMETASK 9\64.Exercise\obj\Debug\net6.0\64.Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\Desktop\Обучение\HOMETASK 9\64.Exercise\obj\Debug\net6.0\64.Exercise.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\Обучение\HOMETASK 9\64.Exercise\obj\Debug\net6.0\64.Exercise.AssemblyInfo.cs
+C:\Users\Артур\Desktop\Обучение\HOMETASK 9\64.Exercise\obj\Debug\net6.0\64.Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Обучение\HOMETASK 9\64.Exercise\obj\Debug\net6.0\64.Exercise.dll
+C:\Users\Артур\Desktop\Обучение\HOMETASK 9\64.Exercise\obj\Debug\net6.0\refint\64.Exercise.dll
+C:\Users\Артур\Desktop\Обучение\HOMETASK 9\64.Exercise\obj\Debug\net6.0\64.Exercise.pdb
+C:\Users\Артур\Desktop\Обучение\HOMETASK 9\64.Exercise\obj\Debug\net6.0\64.Exercise.genruntimeconfig.cache
+C:\Users\Артур\Desktop\Обучение\HOMETASK 9\64.Exercise\obj\Debug\net6.0\ref\64.Exercise.dll
